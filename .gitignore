@@ -1,0 +1,19 @@
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar pastas de build comuns
+bin/
+out/
+target/
+
+# Ignorar arquivos de IDEs
+*.iml
+.idea/
+*.log
+.settings/
+.classpath
+.project
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
